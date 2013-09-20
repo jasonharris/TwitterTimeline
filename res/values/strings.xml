@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">TwitterTimeline</string>
+    <string name="app_name">Twitter Timeline</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="title">\@Spartz Inc</string>
+    <string name="img_avatar_desc">Twitter Avatar</string>
+    <string name="error">Unable to reach Twitter, you may need to check your connection.</string>
+    <string name="no_url">This user does not have a linked website.</string>
 
 </resources>

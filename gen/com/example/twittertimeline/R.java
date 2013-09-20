@@ -10,6 +10,151 @@ package com.example.twittertimeline;
 public final class R {
     public static final class attr {
     }
+    public static final class color {
+        public static final int background_holo_dark=0x7f04004e;
+        public static final int background_holo_light=0x7f04004f;
+        public static final int background_holo_light_transparent=0x7f040050;
+        public static final int black_25=0x7f040005;
+        public static final int black_transparent=0x7f040004;
+        public static final int bright_foreground_disabled_holo_dark=0x7f040053;
+        public static final int bright_foreground_disabled_holo_light=0x7f040054;
+        public static final int bright_foreground_holo_dark=0x7f040051;
+        public static final int bright_foreground_holo_light=0x7f040052;
+        public static final int bright_foreground_inverse_holo_dark=0x7f040055;
+        public static final int bright_foreground_inverse_holo_light=0x7f040056;
+        public static final int btn_dark_primary_border_color=0x7f04001e;
+        public static final int btn_dark_primary_border_color_disabled=0x7f040028;
+        public static final int btn_dark_primary_color=0x7f04001b;
+        public static final int btn_dark_primary_color_disabled=0x7f040025;
+        public static final int btn_dark_primary_end_color=0x7f04001d;
+        public static final int btn_dark_primary_end_color_disabled=0x7f040027;
+        public static final int btn_dark_primary_start_color=0x7f04001c;
+        public static final int btn_dark_primary_start_color_disabled=0x7f040026;
+        public static final int btn_dark_secondary_border_color=0x7f040021;
+        public static final int btn_dark_secondary_border_color_disabled=0x7f04002b;
+        public static final int btn_dark_secondary_end_color=0x7f040020;
+        public static final int btn_dark_secondary_end_color_disabled=0x7f04002a;
+        public static final int btn_dark_secondary_start_color=0x7f04001f;
+        public static final int btn_dark_secondary_start_color_disabled=0x7f040029;
+        public static final int btn_dark_tertiary_border_color=0x7f040024;
+        public static final int btn_dark_tertiary_border_color_disabled=0x7f04002e;
+        public static final int btn_dark_tertiary_end_color=0x7f040023;
+        public static final int btn_dark_tertiary_end_color_disabled=0x7f04002d;
+        public static final int btn_dark_tertiary_start_color=0x7f040022;
+        public static final int btn_dark_tertiary_start_color_disabled=0x7f04002c;
+        public static final int btn_light_primary_border_color=0x7f04000a;
+        public static final int btn_light_primary_border_color_disabled=0x7f040014;
+        public static final int btn_light_primary_color=0x7f040007;
+        public static final int btn_light_primary_color_disabled=0x7f040011;
+        public static final int btn_light_primary_end_color=0x7f040009;
+        public static final int btn_light_primary_end_color_disabled=0x7f040013;
+        public static final int btn_light_primary_start_color=0x7f040008;
+        public static final int btn_light_primary_start_color_disabled=0x7f040012;
+        public static final int btn_light_secondary_border_color=0x7f04000d;
+        public static final int btn_light_secondary_border_color_disabled=0x7f040017;
+        public static final int btn_light_secondary_end_color=0x7f04000c;
+        public static final int btn_light_secondary_end_color_disabled=0x7f040016;
+        public static final int btn_light_secondary_start_color=0x7f04000b;
+        public static final int btn_light_secondary_start_color_disabled=0x7f040015;
+        public static final int btn_light_tertiary_border_color=0x7f040010;
+        public static final int btn_light_tertiary_border_color_disabled=0x7f04001a;
+        public static final int btn_light_tertiary_end_color=0x7f04000f;
+        public static final int btn_light_tertiary_end_color_disabled=0x7f040019;
+        public static final int btn_light_tertiary_start_color=0x7f04000e;
+        public static final int btn_light_tertiary_start_color_disabled=0x7f040018;
+        public static final int btn_pressed_border_color=0x7f040030;
+        public static final int btn_pressed_color=0x7f04002f;
+        public static final int dark_gray=0x7f040001;
+        public static final int dim_foreground_disabled_holo_dark=0x7f040058;
+        public static final int dim_foreground_disabled_holo_light=0x7f04005d;
+        public static final int dim_foreground_holo_dark=0x7f040057;
+        public static final int dim_foreground_holo_light=0x7f04005c;
+        public static final int dim_foreground_inverse_disabled_holo_dark=0x7f04005a;
+        public static final int dim_foreground_inverse_disabled_holo_light=0x7f04005f;
+        public static final int dim_foreground_inverse_holo_dark=0x7f040059;
+        public static final int dim_foreground_inverse_holo_light=0x7f04005e;
+        public static final int edit_text_border_color=0x7f040035;
+        public static final int edit_text_border_color_focused=0x7f040036;
+        public static final int edit_text_border_color_pressed=0x7f040037;
+        public static final int edit_text_color=0x7f040033;
+        public static final int edit_text_color_pressed=0x7f040034;
+        public static final int edit_text_hint_color=0x7f040032;
+        public static final int edit_text_text_color=0x7f040031;
+        public static final int event_btn_default_bg=0x7f040041;
+        public static final int event_btn_default_bg_pressed=0x7f040042;
+        public static final int event_btn_default_text=0x7f040040;
+        public static final int event_btn_transparent_bg=0x7f04003f;
+        public static final int event_btn_transparent_text=0x7f04003e;
+        public static final int gray=0x7f040002;
+        public static final int highlighted_text_holo_dark=0x7f040061;
+        public static final int highlighted_text_holo_light=0x7f040062;
+        public static final int hint_foreground_holo_dark=0x7f04005b;
+        public static final int hint_foreground_holo_light=0x7f040060;
+        /**  A really bright Holo shade of blue 
+         */
+        public static final int holo_blue_bright=0x7f04004d;
+        /**  A dark Holo shade of blue 
+         */
+        public static final int holo_blue_dark=0x7f040047;
+        public static final int holo_blue_dialog_background=0x7f040044;
+        /**  Android api 14 colors 
+ A light Holo shade of blue 
+         */
+        public static final int holo_blue_light=0x7f040043;
+        /**  A dark Holo shade of green 
+         */
+        public static final int holo_green_dark=0x7f040048;
+        /**  A light Holo shade of green 
+         */
+        public static final int holo_green_light=0x7f040045;
+        /**  A dark Holo shade of orange 
+         */
+        public static final int holo_orange_dark=0x7f04004c;
+        /**  A light Holo shade of orange 
+         */
+        public static final int holo_orange_light=0x7f04004b;
+        /**  A Holo shade of purple 
+         */
+        public static final int holo_purple=0x7f04004a;
+        /**  A dark Holo shade of red 
+         */
+        public static final int holo_red_dark=0x7f040049;
+        /**  A light Holo shade of red 
+         */
+        public static final int holo_red_light=0x7f040046;
+        public static final int inverse_text_dark_disabled=0x7f040077;
+        public static final int inverse_text_dark_normal=0x7f040076;
+        public static final int inverse_text_light_disabled=0x7f04006f;
+        public static final int inverse_text_light_normal=0x7f04006e;
+        public static final int light_gray=0x7f040003;
+        public static final int link_text_holo_dark=0x7f040063;
+        public static final int link_text_holo_light=0x7f040064;
+        public static final int primary_text_dark_disabled=0x7f040071;
+        public static final int primary_text_dark_normal=0x7f040070;
+        public static final int primary_text_light_disabled=0x7f040069;
+        public static final int primary_text_light_normal=0x7f040068;
+        public static final int red=0x7f040000;
+        public static final int secondary_text_dark_disabled=0x7f040073;
+        public static final int secondary_text_dark_normal=0x7f040072;
+        public static final int secondary_text_light_disabled=0x7f04006b;
+        public static final int secondary_text_light_normal=0x7f04006a;
+        public static final int spinner_border_color=0x7f04003b;
+        public static final int spinner_border_color_focused=0x7f04003c;
+        public static final int spinner_border_color_pressed=0x7f04003d;
+        public static final int spinner_color=0x7f040039;
+        public static final int spinner_color_pressed=0x7f04003a;
+        public static final int spinner_text_color=0x7f040038;
+        public static final int tertiary_text_dark_disabled=0x7f040075;
+        public static final int tertiary_text_dark_normal=0x7f040074;
+        public static final int tertiary_text_light_disabled=0x7f04006d;
+        public static final int tertiary_text_light_normal=0x7f04006c;
+        public static final int text_shadow_color=0x7f040067;
+        public static final int white_25=0x7f040006;
+        public static final int white_text_disabled=0x7f040066;
+        /**  Text colors 
+         */
+        public static final int white_text_normal=0x7f040065;
+    }
     public static final class dimen {
         /**  Default screen margins, per the Android Design guidelines. 
 
@@ -17,25 +162,35 @@ public final class R {
          screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here.
     
          */
-        public static final int activity_horizontal_margin=0x7f040000;
-        public static final int activity_vertical_margin=0x7f040001;
+        public static final int activity_horizontal_margin=0x7f050000;
+        public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f080000;
+        public static final int action_settings=0x7f090006;
+        public static final int fragmentTimeline=0x7f090002;
+        public static final int imgAvatar=0x7f090003;
+        public static final int textTitle=0x7f090000;
+        public static final int textTweet=0x7f090005;
+        public static final int textUserName=0x7f090004;
+        public static final int viewLine=0x7f090001;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
+        public static final int status=0x7f030001;
     }
     public static final class menu {
-        public static final int main=0x7f070000;
+        public static final int main=0x7f080000;
     }
     public static final class string {
-        public static final int action_settings=0x7f050001;
-        public static final int app_name=0x7f050000;
-        public static final int hello_world=0x7f050002;
+        public static final int action_settings=0x7f060001;
+        public static final int app_name=0x7f060000;
+        public static final int error=0x7f060004;
+        public static final int img_avatar_desc=0x7f060003;
+        public static final int no_url=0x7f060005;
+        public static final int title=0x7f060002;
     }
     public static final class style {
         /** 
@@ -59,10 +214,10 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f060000;
+        public static final int AppBaseTheme=0x7f070000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f060001;
+        public static final int AppTheme=0x7f070001;
     }
 }
